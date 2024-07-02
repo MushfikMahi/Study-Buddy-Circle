@@ -6,10 +6,37 @@
 
 🔗 server github link : [GitHub Server](https://github.com/MushfikMahi/study-buddy-circle-server)
 
-## 5 Bullet points of my website.
+StudyBuddyCircle is an online platform designed to enhance collaborative learning among friends. It allows users to create and share assignments, collaborate on tasks, and provide feedback to each other. The platform supports organizing study groups, sharing resources, and tracking academic progress, fostering a supportive and interactive learning environment.
 
-- **Collaborative Learning:** StudyBuddyCircle facilitates collaborative learning experiences among friends, allowing users to study together, share knowledge, and work on assignments collectively.
-- **Group Study Sessions:** Users can easily organize and join virtual group study sessions, enabling effective collaboration and peer-to-peer support in an online environment.
-- **Assignment Management:** The platform offers robust assignment management tools, allowing users to create, distribute, and track study assignments within their study groups.
-- **Real-Time Feedback:** StudyBuddyCircle enables users to provide real-time feedback and support to their friends, fostering a culture of continuous improvement and academic excellence.
-- **Community Building:** By connecting users with like-minded peers, StudyBuddyCircle promotes community building and fosters meaningful relationships centered around shared academic goals and aspirations.
+## Here are three features of this project.
+
+- **Collaborative Assignment Creation:** Users can create, share, and manage assignments within their study groups, making it easy to work on tasks together and track progress.
+
+- **Real-Time Feedback:** Users can provide and receive instant feedback on assignments from their friends, helping to improve understanding and academic performance.
+
+- **Resource Sharing:** The platform allows users to share study materials and resources effortlessly, ensuring everyone has access to the necessary information for their studies.
+
+
+## The technologies used for developing the "Artistry in Glass & Paper" website include:
+- **Frontend:** React.js for building the user interface and ensuring a dynamic, responsive user experience.
+- **Backend:** Node.js and Express.js for server-side development, managing APIs and database interactions.
+- **Database:** MongoDB for storing and retrieving craft listings and user data efficiently.
+- **Styling:** Tailwind CSS for designing a modern and visually appealing layout.
+- **Authentication:** Firebase Authentication for secure user login and registration.
+- **Hosting:** Vercel for deploying the website and ensuring reliable, fast access.
+- **State Management:** React Context API or Redux for managing application state.
+
+
+## If you wanna run this locally follow those steps:
+
+- Clone the repository
+
+- Install frontend dependencies
+
+- Install backend dependencies
+
+- Set up environment variables
+
+- Run the backend server
+
+- Run the frontend application
