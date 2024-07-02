@@ -17,7 +17,7 @@ StudyBuddyCircle is an online platform designed to enhance collaborative learnin
 - **Resource Sharing:** The platform allows users to share study materials and resources effortlessly, ensuring everyone has access to the necessary information for their studies.
 
 
-## The technologies used for developing the "Artistry in Glass & Paper" website include:
+## The technologies used for developing the "StudyBuddyCircle" website include:
 - **Frontend:** React.js for building the user interface and ensuring a dynamic, responsive user experience.
 - **Backend:** Node.js and Express.js for server-side development, managing APIs and database interactions.
 - **Database:** MongoDB for storing and retrieving craft listings and user data efficiently.
